@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-maxget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["eslint", "eslintconfig"],
+  "author": "maxiangsai",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.18.13",
+    "@babel/eslint-parser": "^7.18.9",
+    "eslint": "^8.22.0",
+    "eslint-plugin-vue": "^9.4.0"
+  },
+  "peerDependencies": {
+    "@babel/eslint-parser": "7.x",
+    "eslint": ">=8.18.0"
+  },
+  "peerDependenciesMeta": {
+    "@babel/eslint-parser": {
+      "optional": true
+    }
+  }
+}
