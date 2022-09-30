@@ -21,5 +21,8 @@
     "@babel/eslint-parser": {
       "optional": true
     }
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
